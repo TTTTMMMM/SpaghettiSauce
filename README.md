@@ -23,7 +23,7 @@
 
 9. After all peeled tomatoes have had seeds removed and chunked down, place tomatoes back into empty large red pot. Read the number of cups of tomatoes from the inside markings of the pot and convert to ounces. (E.g., 15 cups converts to 120 ounces.) Used this number to appropriately scale the following recipe, which is based on 56 ounces of tomatoes (E.g., 120 ounces scales to roughly double the amount of each ingredient called for in the original recipe.):
 
-   1. Place sauce pan on stove on medium-high heat 
+   1. Place sauce pan on stove on medium-high heat.
 
    
    |     Ingredients     |  Quantity  |
@@ -31,4 +31,6 @@
    | butter, cubed       | 3 1/2 TBsp | 
    | white onion, grated | 2/3 cup    |
    | garlic, minced      | 5 tsp      |
+
+   2. Dump above ingredients into sauce pan and combine for 5 minutes.
    
