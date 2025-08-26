@@ -25,10 +25,10 @@
 
    1. Place sauce pan on stove on medium-high heat 
 
-   |---------------------|------------|
+   
    |     Ingredients     |  Quantity  |
    |---------------------|------------|
    | butter, cubed       | 3 1/2 TBsp | 
    | white onion, grated | 2/3 cup    |
    | garlic, minced      | 5 tsp      |
-   |---------------------|------------|
+   
