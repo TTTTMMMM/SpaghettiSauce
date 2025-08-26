@@ -39,4 +39,28 @@
    | whole peeled tomatoes | 28 oz. can |
    | tomato paste          | 2.5 oz can |
 
-   3. Dump above ingredients into bowl and use bare hands and work tomato paste in.
+   3. Dump above ingredients into bowl and use spoon to work tomato paste in.
+
+   |      Ingredients      |  Quantity  |
+   |-----------------------|------------|
+   | salt                  | 1.75 tsp   | 
+   | sugar                 | 1.66 TBsp  |
+   | dried oregano         | 1 tsp      |
+   | dried basil           | 1 tsp      |
+   | red pepper flakes     | 1 tsp      |
+
+   4. Dump above ingredients into tomato bowl mixture and stir.
+
+   5. Add sauce pan mixture to tomato bowl mixture and turn heat down to medium and cook for 45 minutes.
+
+   6. Use hand blender to reduce size of tomato chunks to desired spaghetti sauce consistency.
+
+10. Remove from heat and let it cool. By nightfall, place in refrigerator for bagging next morning.
+
+11. Use funnel to ladle sauce into quart-sized freezer ziplock bags. 
+
+12. Weigh and label bags, then place in freezer.
+
+![bagged, weighed and labled](./pics/04.png "Bagged, Weighed and Labled")
+
+### Yield
