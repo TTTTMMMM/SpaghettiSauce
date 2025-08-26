@@ -61,6 +61,15 @@
 
 12. Weigh and label bags, then place in freezer.
 
-![bagged, weighed and labled](./pics/04.png "Bagged, Weighed and Labled")
+![bagged, weighed and labled](./pics/05.png "Bagged, Weighed and Labled")
+
+--- 
 
 ### Yield
+
+#### 16 cups of processed fresh tomatoes yields 3 25 ounce bags and 3 12 ounce bags.
+
+![yield #1](./pics/06.png "Yield #1")
+
+
+![yield #2](./pics/07.png "Yield #2")
