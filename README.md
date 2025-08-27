@@ -1,5 +1,9 @@
 # Directions for Making Spaghetti Sauce
 
+0. Ingredients needed shown (minus the large onion)
+
+![ingredients](./pics/00.png "Ingredients")
+
 1. After Harvesting Tomatoes
 
 ![tomatoes](./pics/01.png "Tomatoes")
