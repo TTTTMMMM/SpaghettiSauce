@@ -25,7 +25,7 @@
 
 ![seedless tomatoes](./pics/04.png "Seedless Tomatoes")
 
-9. After all peeled tomatoes have had seeds removed and chunked down, place tomatoes back into empty large red pot. Read the number of cups of tomatoes from the inside markings of the pot and convert to ounces. (E.g., 15 cups converts to 120 ounces.) Used this number to appropriately scale the following recipe, which is based on 56 ounces of tomatoes (E.g., 120 ounces scales to roughly double the amount of each ingredient called for in the original recipe.):
+9. After all peeled tomatoes have had seeds removed and chunked down, place tomatoes back into empty large red pot. Read the number of cups of tomatoes from the inside markings of the pot and convert to ounces. (E.g., 15 cups converts to 120 ounces.) Use this number to appropriately scale the following recipe, which is based on 56 ounces of tomatoes (E.g., 120 ounces scales to roughly double the amount of each ingredient called for in the original recipe.):
 
    1. Place sauce pan on stove on medium-high heat.
    
@@ -41,7 +41,7 @@
    |-----------------------|------------|
    | crushed tomatoes      | 28 oz. can | 
    | whole peeled tomatoes | 28 oz. can |
-   | tomato paste          | 2.5 oz can |
+   | tomato paste          | 3   oz can |
 
    3. Dump above ingredients into bowl and use spoon to work tomato paste in.
 
@@ -55,7 +55,7 @@
 
    4. Dump above ingredients into tomato bowl mixture and stir.
 
-   5. Add sauce pan mixture to tomato bowl mixture and turn heat down to medium and cook for 45 minutes.
+   5. Add sauce pan mixture to tomato bowl mixture, turn heat to medium, and cook for 45 minutes.
 
    6. Use hand blender to reduce size of tomato chunks to desired spaghetti sauce consistency.
 
@@ -71,7 +71,7 @@
 
 ### Yield
 
-#### 16 cups of processed fresh tomatoes yields 3 25 ounce bags and 3 12 ounce bags.
+#### 16 cups of processed fresh tomatoes yields 3x25 ounce bags and 3x12 ounce bags.
 
 ![yield #1](./pics/06.png "Yield #1")
 
