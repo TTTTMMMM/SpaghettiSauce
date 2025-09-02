@@ -76,7 +76,7 @@
 
 ### Yields
 
-##### 9/2/2025 Yield
+##### 9/2/2025 Yield (from 12 lbs of raw tomatoes)
 
 ![Yield 09/02/2025](./pics/08.png "Yield 09/02/2025")
 
