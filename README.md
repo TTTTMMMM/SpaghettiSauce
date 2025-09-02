@@ -62,7 +62,7 @@
 
    5. Add sauce pan mixture to tomato bowl mixture, turn heat to medium, and cook for 45 minutes.
 
-   6. Use hand blender to reduce size of tomato chunks to desired spaghetti sauce consistency.
+   6. Use hand blender to reduce size of tomato chunks to desired spaghetti sauce consistency, keeping in mind you don't want it to be totally runny.
 
 10. Remove from heat and let it cool. By nightfall, place in refrigerator for bagging next morning.
 
