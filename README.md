@@ -5,7 +5,11 @@
 ![ingredients](./pics/00.png "Ingredients")
 
 1. After Harvesting Tomatoes 
-##### 9/2/25: Began with 11 lbs 15 oz.of harvested tomatoes, which yielded xxx cups)
+
+   |     Date     |  Harvested Tomatoes  | Cups of Processed Tomatoes |
+   |--------------|----------------------|----------------------------|
+   |  09/02/2025  |       12 lbs.        |         12 cups            |
+
 
 ![tomatoes](./pics/01.png "Tomatoes")
 
