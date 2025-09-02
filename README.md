@@ -5,7 +5,7 @@
 ![ingredients](./pics/00.png "Ingredients")
 
 1. After Harvesting Tomatoes 
-##### 9/2/25: started with 10 lbs 14 oz., which yielded xxx cups)
+##### 9/2/25: Began with 10 lbs 14 oz.of harvested tomatoes, which yielded xxx cups)
 
 ![tomatoes](./pics/01.png "Tomatoes")
 
