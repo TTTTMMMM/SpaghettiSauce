@@ -6,9 +6,9 @@
 
 1. After Harvesting Tomatoes 
 
-   |     Date     |  Harvested Tomatoes  | Cups of Processed Tomatoes | Final Yield |
-   |--------------|----------------------|----------------------------|-------------|
-   |  09/02/2025  |       12 lbs.        |         12 cups            | xxx bags    |
+   |     Date     |  Harvested Tomatoes  | Cups of Processed Tomatoes | Final Sauce Yield |
+   |--------------|----------------------|----------------------------|-------------------|
+   |  09/02/2025  |       12 lbs.        |         12 cups            |       92 oz.      |
 
 
 ![tomatoes](./pics/01.png "Tomatoes")
