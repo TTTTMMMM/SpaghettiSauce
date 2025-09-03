@@ -80,6 +80,10 @@
 
 ![Yield 09/02/2025](./pics/08.png "Yield 09/02/2025")
 
+##### 9/2/2025 Yield (from 12 lbs of raw tomatoes = 92 oz.)
+
+![Yield 09/02/2025--92oz.](./pics/09.png "Yield 09/02/2025--92oz.")
+
 
 #### 16 cups of processed fresh tomatoes yields 3x25 ounce bags and 3x12 ounce bags.
 
