@@ -10,7 +10,8 @@
    |--------------|----------------------|----------------------------|-------------------|
    |  09/02/2025  |       12 lbs.        |         12 cups            |       92 oz.      |
 
-
+ (BTW: weight of bowl is 11 oz.)
+![silver bowl](./pics/10.png "Weight of Bowl")
 ![tomatoes](./pics/01.png "Tomatoes")
 
 2. 1rst person: use a paring knife blade to de-stem and cut X-pattern onto bottom of each tomato.
