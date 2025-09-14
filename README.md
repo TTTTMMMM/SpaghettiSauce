@@ -9,7 +9,7 @@
    |     Date     |  Harvested Tomatoes  | Cups of Processed Tomatoes | Final Sauce Yield |
    |--------------|----------------------|----------------------------|-------------------|
    |  09/02/2025  |       12 lbs.        |         12 cups            |       92 oz.      |
-   |  09/13/2025  |       10 lbs 11 oz.  |         12 cups            |                   |   
+   |  09/13/2025  |       10 lbs 11 oz.  |         12 cups            |       88 oz.      |   
 
  (BTW: weight of bowl is 11 oz., but if after you place the bowl on the scale you zeroize it, the scale will tell you the weight of the tomatoes without you having to do the subtraction yourself.)
 ![silver bowl](./pics/10.png "Weight of Bowl")
